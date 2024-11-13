@@ -1,0 +1,18 @@
+geometry_type,geometry_coordinates,adm1_psgc,adm1_en,geo_level,len_crs,area_crs,len_km,area_km2
+MultiPolygon,null,100000000,Region I (Ilocos Region),Reg,1633812,12319684719,1633,12319
+MultiPolygon,null,200000000,Region II (Cagayan Valley),Reg,2071665,26379470627,2071,26379
+MultiPolygon,null,300000000,Region III (Central Luzon),Reg,1739730,21317544191,1739,21317
+MultiPolygon,null,400000000,Region IV-A (CALABARZON),Reg,3018869,15844672848,3018,15844
+MultiPolygon,null,500000000,Region V (Bicol Region),Reg,4916380,17326742058,4916,17326
+MultiPolygon,null,600000000,Region VI (Western Visayas),Reg,3052957,20033288935,3052,20033
+MultiPolygon,null,700000000,Region VII (Central Visayas),Reg,3205074,14284958199,3205,14284
+MultiPolygon,null,800000000,Region VIII (Eastern Visayas),Reg,4616788,20843031458,4616,20843
+MultiPolygon,null,900000000,Region IX (Zamboanga Peninsula),Reg,2560059,14585545786,2560,14585
+MultiPolygon,null,1000000000,Region X (Northern Mindanao),Reg,1656215,17491466804,1656,17491
+MultiPolygon,null,1100000000,Region XI (Davao Region),Reg,1984247,18840136538,1984,18840
+MultiPolygon,null,1200000000,Region XII (SOCCSKSARGEN),Reg,1592698,17365248164,1592,17365
+Polygon,null,1300000000,National Capital Region (NCR),Reg,251831,598726389,251,598
+Polygon,null,1400000000,Cordillera Administrative Region (CAR),Reg,873156,18198018564,873,18198
+MultiPolygon,null,1600000000,Region XIII (Caraga),Reg,3107083,18776338652,3107,18776
+MultiPolygon,null,1700000000,Region IV-B (MIMAROPA ),Reg,8672989,26870100938,8672,26870
+MultiPolygon,null,1900000000,BARMM,Reg,6109999,13463620615,6109,13463
